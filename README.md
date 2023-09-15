@@ -13,6 +13,7 @@ To assemble the components of the computer.
 4.A CPU socket uses a series Of pins to connect a CPU’s processor to the Pc’s motherboard. If a CPU is connected via a CPU socket.
 ![image](https://github.com/kabilan22000284/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/123469171/95d9e0d6-e918-414d-98f6-d576a082e820)
 5.Heat sink and fan assembly : A HeatSink And Fan (HSF) Is An Active Cooling Solution Used To Cool Down Integrated Circuits In Computer Systems, Commonly The Central Processing Unit (CPU).
+
 6.Connect The Assembly Power Cable To The CPU Fan Connector On The Motherboard.
 ![image](https://github.com/kabilan22000284/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/123469171/74ab111f-a704-4c92-9f52-cf8cea7cda7e)
 7.Installation of RAM:To Install The RAM First On The Motherboard And Then Fix The Motherboard In The Case. To Install RAM, First Ensure Its Compatibility With The Motherboard.
